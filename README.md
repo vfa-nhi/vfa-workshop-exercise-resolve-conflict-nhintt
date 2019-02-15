@@ -5,6 +5,10 @@ BBBBB
 
 CCCCC
 
+<<<<<<< HEAD
 DDDDD
 
 EEEEE
+=======
+ddddd
+>>>>>>> master
